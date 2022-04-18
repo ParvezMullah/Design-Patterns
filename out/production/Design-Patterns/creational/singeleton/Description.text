@@ -1,0 +1,1 @@
+It lets ensure that only one instance of a class is created while providing the global access to the object.
