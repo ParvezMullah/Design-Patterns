@@ -1,6 +1,6 @@
 package structural.adapter;
 
-public class BankCustomer extends BankDetails implements  CreditCard{
+public class BankCustomer extends BankDetails implements CreditCard {
 
     @Override
     public void giveBankDetails() {
