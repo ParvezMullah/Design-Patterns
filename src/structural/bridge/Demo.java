@@ -6,7 +6,6 @@ which can be developed independently of each other.
 
 package structural.bridge;
 
-import structural.bridge.devices.Device;
 import structural.bridge.devices.TeleVision;
 import structural.bridge.remotes.AdvancedRemote;
 
