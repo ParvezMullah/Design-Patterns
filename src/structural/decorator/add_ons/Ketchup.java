@@ -2,9 +2,10 @@ package structural.decorator.add_ons;
 
 import structural.decorator.pizzas.Pizza;
 
-public class Ketchup implements AddOn{
+public class Ketchup implements AddOn {
     protected Pizza pizza;
-    public Ketchup(Pizza pizza){
+
+    public Ketchup(Pizza pizza) {
         this.pizza = pizza;
     }
 
